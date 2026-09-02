@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sandip Gorad
+Hey, I'm Sandip Gorad
 
 ### Full-Stack Developer • SaaS Builder
 
@@ -17,8 +17,6 @@ I like turning simple ideas into useful products.
 🎓 Final-year **EnTC Engineering Student**
 
 💻 Building with **JavaScript, React, Node.js, and MongoDB**
-
-🚀 Currently building **AgreeVault** — a platform for contracts, escrow, and safer client–freelancer transactions.
 
 🌱 Learning **DSA, AI, and System Design**
 
