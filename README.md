@@ -1,10 +1,10 @@
 <div align="center">
 
-Hey, I'm Sandip Gorad
+# Hey, I'm Sandip Gorad
 
 ### Full-Stack Developer • SaaS Builder
 
-I like turning simple ideas into useful products.
+   I like turning simple ideas into useful products.
 
 [LinkedIn](https://linkedin.com/in/sandipgorad) · [X](https://twitter.com/softwaredmind) · [Email](mailto:sandipgorad0001@gmail.com)
 
