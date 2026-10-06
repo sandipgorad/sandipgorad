@@ -20,7 +20,6 @@
 
 🌱 Learning **DSA, AI, and System Design**
 
-> Build something useful. Keep learning. Ship often.
 
 ---
 
